@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="407" started-at="2020-04-11T15:42:48Z" finished-at="2020-04-11T15:42:48Z">
+    <groups>
+      <group name="odd">
+        <method signature="Class3.method5()[pri:0, instance:MavenGroupID.Class3@6767c1fc]" name="method5" class="MavenGroupID.Class3"/>
+        <method signature="Class4.method1()[pri:0, instance:MavenGroupID.Class4@4678c730]" name="method1" class="MavenGroupID.Class4"/>
+        <method signature="Class4.method3()[pri:0, instance:MavenGroupID.Class4@4678c730]" name="method3" class="MavenGroupID.Class4"/>
+      </group> <!-- odd -->
+    </groups>
+    <test name="Test" duration-ms="407" started-at="2020-04-11T15:42:48Z" finished-at="2020-04-11T15:42:48Z">
+      <class name="MavenGroupID.Class3">
+        <test-method status="PASS" signature="method5()[pri:0, instance:MavenGroupID.Class3@6767c1fc]" name="method5" duration-ms="3" started-at="2020-04-11T15:42:48Z" finished-at="2020-04-11T15:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+        <test-method status="PASS" signature="method6()[pri:0, instance:MavenGroupID.Class3@6767c1fc]" name="method6" duration-ms="3" started-at="2020-04-11T15:42:48Z" finished-at="2020-04-11T15:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method6 -->
+      </class> <!-- MavenGroupID.Class3 -->
+      <class name="MavenGroupID.Class4">
+        <test-method status="PASS" signature="method1()[pri:0, instance:MavenGroupID.Class4@4678c730]" name="method1" duration-ms="37" started-at="2020-04-11T15:42:48Z" finished-at="2020-04-11T15:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:MavenGroupID.Class4@4678c730]" name="method2" duration-ms="2" started-at="2020-04-11T15:42:48Z" finished-at="2020-04-11T15:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:MavenGroupID.Class4@4678c730]" name="method3" duration-ms="188" started-at="2020-04-11T15:42:48Z" finished-at="2020-04-11T15:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method4()[pri:0, instance:MavenGroupID.Class4@4678c730]" name="method4" duration-ms="2" started-at="2020-04-11T15:42:48Z" finished-at="2020-04-11T15:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+      </class> <!-- MavenGroupID.Class4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
